@@ -1,0 +1,6 @@
+[build-system]
+requires = ["whool"]
+build-backend = "whool.buildapi"
+
+[tool.whool]
+odoo_series_override = "16.0"
